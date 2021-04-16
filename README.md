@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yaswanth
 - 👀 I’m interested in learning new tech tools
 - 🌱 I’m currently learning Java
-- 📫 Reach me on LinkedIn @Yaswanth Mullamuri
+- 📫 Reach me out on LinkedIn @Yaswanth Mullamuri
 
 <!---
 YaswanthMullamuri/YaswanthMullamuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
