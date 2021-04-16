@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YaswanthMullamuri
+- 👋 Hi, I’m Yaswanth
 - 👀 I’m interested in learning new tech tools
 - 🌱 I’m currently learning Java
 - 📫 Reach me on LinkedIn @Yaswanth Mullamuri
