@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yaswanth
-- 👀 I’m interested in learning new tech tools
-- 🌱 I’m currently learning and Working on Java
+- 👀 Interested in learning latest tech
+- 🌱 Currently learning Python
+- 👨‍💻 Working on Java, Flutter
 - 📫 Reach me out on LinkedIn @https://www.linkedin.com/in/yaswanth-mullamuri-87475118b
 
 <!---
