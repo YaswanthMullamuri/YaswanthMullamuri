@@ -2,7 +2,7 @@
 - 👀 Interested in learning latest tech
 - 🌱 Currently learning Python
 - 👨‍💻 Working on Java
-- 📫 Reach me out on LinkedIn @https://www.linkedin.com/in/yaswanth-mullamuri-87475118b
+- 📫 Reach me out on LinkedIn @https://www.linkedin.com/in/yaswanth-mullamuri/
 
 <!---
 YaswanthMullamuri/YaswanthMullamuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
