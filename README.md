@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Yaswanth
-- 👀 Interested in learning latest tech
-- 🌱 Currently learning Python
-- 👨‍💻 Working on Java
-- 📫 Reach me out on LinkedIn @https://www.linkedin.com/in/yaswanth-mullamuri/
+- 🎓 I'm a Computer Science Graduate Student at North Carolina State University
+- 🤔 Exploring research topics across Empirical Software Engineering
+- 👨🏻‍💻 Previously a Software Development Engineer at Tata Consultancy Services
 
 <!---
 YaswanthMullamuri/YaswanthMullamuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
